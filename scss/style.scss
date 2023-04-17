@@ -1,3 +1,4 @@
+@import "estilosGenerales";
 @import "index";
 @import "Galeria";
 @import "descargar";
@@ -5,10 +6,11 @@
 @import "comprarchia";
 @import "casodeuso";
 
+
 /*variables*/
 $verdechia: rgb(7, 59, 42);
 
-*{
+/* *{
     margin: 0;
     padding: 0;
   }
@@ -105,4 +107,4 @@ $verdechia: rgb(7, 59, 42);
     padding: 10px 50px;
     color: white; 
     }
-  }
+  } */
